@@ -3,10 +3,11 @@
 My natural inclination as a developer fuels my enthusiasm for creating, and Python, Java & SQL are programming languages that particularly sparks my interest. Problem-solving is what motivates me, and as a Data Engineering Professional, I am particularly fascinated by Artificial Intelligence & Machine Learning. I strongly believe in the idea of having a growth mindset and am dedicated to continuously learning throughout my life.
 
 - 👋 Hi, I’m @shahan360
-- 👀 I’m interested in Software Development, Data Analytics, Machine Learning
+- 👀 I’m interested in Software Development, Data Engineering Analytics, Artificial Intelligence & Machine Learning
 - 🌱 I’m currently learning Software Development in languages like Python, Java etc. 
-- 💞️ I’m looking to collaborate on open source projects related to Python Development, Flask, Data Analytics, Machine Learning and Computer Vision
+- 💞️ I’m looking to collaborate on open source projects related to Business Intelligence & Data Analytics, Python Development, Flask, Machine Learning and Computer Vision
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/shahan360/
+- 🏆 Visit my Tableau Public Projects Portfolio : https://public.tableau.com/app/profile/shashank.bhushan
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,r,c,discord,flask,gcp,github,linux,matlab,postgres,pytorch,vscode,replit,mysql,mongodb&theme=light)](https://skillicons.dev)
