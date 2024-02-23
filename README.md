@@ -16,7 +16,6 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-[![](https://visitcount.itsvg.in/api?id=Vanoo123&icon=5&color=12)](https://visitcount.itsvg.in)
 # 💻 Tech Stack:
 
 ## Programming Languages
@@ -54,6 +53,8 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahan360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&token=YOUR_GITHUB_TOKEN)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahan360&theme=dark&hide_border=false)
+
+[![](https://visitcount.itsvg.in/api?id=shahan360&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=YOUR_GITHUB_TOKEN)
 
