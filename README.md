@@ -54,10 +54,9 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahan360&theme=dark&hide_border=false)
 
-[![](https://visitcount.itsvg.in/api?id=shahan360&icon=5&color=12)](https://visitcount.itsvg.in)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=YOUR_GITHUB_TOKEN)
 
+[![](https://visitcount.itsvg.in/api?id=shahan360&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!---
 shahan360/shahan360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
