@@ -60,6 +60,8 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 
 ![Visitor Count](https://profile-counter.glitch.me/shahan360/count.svg)
 
+![Visitor badge](https://visitor-badge.lithub.cc/badge?page_id=shahan360.shahan360)
+
 
 <!---
 shahan360/shahan360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
