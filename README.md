@@ -58,6 +58,8 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 
 [![](https://visitcount.itsvg.in/api?id=shahan360&icon=5&color=12)](https://visitcount.itsvg.in)
 
+[![Custom Badge](https://img.shields.io/badge/Views-YourCount-blue?style=for-the-badge)]([https://yourlink.com](https://github.com/shahan360))
+
 <!---
 shahan360/shahan360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
