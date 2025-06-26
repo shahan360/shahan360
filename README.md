@@ -56,6 +56,8 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=YOUR_GITHUB_TOKEN)
 
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=shahan360&theme=discord)](https://github.com/shahan360/github-profile-trophy)
+
 [![](https://visitcount.itsvg.in/api?id=shahan360&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ![Visitor Count](https://profile-counter.glitch.me/shahan360/count.svg)
