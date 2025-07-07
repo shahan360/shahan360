@@ -56,6 +56,20 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=YOUR_GITHUB_TOKEN)
 
+<table style="width:100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td style="padding: 10px; border: 2px solid #333; background-color: #1e1e2f;">
+      <img src="https://github-readme-stats.vercel.app/api?username=shahan360&&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&token=YOUR_GITHUB_TOKEN" alt="GitHub Stats for shahan360" style="width: 100%; max-width: 450px; height: auto;" />
+      <div style="color: #c5c6c7; font-family: Arial, sans-serif; margin-top: 8px; font-size: 14px;">GitHub Stats</div>
+    </td>
+    <td style="padding: 10px; border: 2px solid #333; background-color: #121212;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=YOUR_GITHUB_TOKEN" alt="Top Languages for shahan360" style="width: 100%; max-width: 350px; height: auto;" />
+      <div style="color: #c5c6c7; font-family: Arial, sans-serif; margin-top: 8px; font-size: 14px;">Top Languages</div>
+    </td>
+  </tr>
+</table>
+
+
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=shahan360&theme=discord)](https://github.com/shahan360/github-profile-trophy)
 
 [![](https://visitcount.itsvg.in/api?id=shahan360&icon=5&color=12)](https://visitcount.itsvg.in)
