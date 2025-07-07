@@ -50,7 +50,7 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahan360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&token=YOUR_GITHUB_TOKEN)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahan360&&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&token=YOUR_GITHUB_TOKEN)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahan360&theme=dark&hide_border=false)
 
