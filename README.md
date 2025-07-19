@@ -71,9 +71,11 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=shahan360&theme=discord)](https://github.com/shahan360/github-profile-trophy)
 
-[![](https://visitcount.itsvg.in/api?id=shahan360&icon=5&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=shahan360&color=blue)
 
-![Visitor Count](https://profile-counter.glitch.me/shahan360/count.svg)
+<!--[![](https://visitcount.itsvg.in/api?id=shahan360&icon=5&color=12)](https://visitcount.itsvg.in)-->
+
+<!--![Visitor Count](https://profile-counter.glitch.me/shahan360/count.svg)-->
 
 
 <!---
