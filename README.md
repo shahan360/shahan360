@@ -87,7 +87,7 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahan360&theme=dark&hide_border=false)
 
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=shahan360&theme=discord)](https://github.com/shahan360/github-profile-trophy)
+<!--[![Github Trophies](https://github-profile-trophy.vercel.app/?username=shahan360&theme=discord)](https://github.com/shahan360/github-profile-trophy)-->
 
 ![](https://komarev.com/ghpvc/?username=shahan360&color=blue)
 
