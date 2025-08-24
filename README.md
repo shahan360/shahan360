@@ -95,7 +95,7 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 
 <!--![Visitor Count](https://profile-counter.glitch.me/shahan360/count.svg)-->
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sha54&animated=true" alt="LeetCode Badges" />
+<!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=sha54&animated=true" alt="LeetCode Badges" /> -->
 
 
 <!---
