@@ -71,7 +71,7 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahan360&&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&token=YOUR_GITHUB_TOKEN) -->
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=YOUR_GITHUB_TOKEN) -->
-
+<!--
 <table style="width:100%; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="padding: 10px; border: 2px solid #333; background-color: #1e1e2f;">
@@ -86,6 +86,37 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 </table>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahan360&theme=dark&hide_border=false)
+-->
+
+<!-- Stats + Top languages side by side -->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=shahan360&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" 
+        alt="GitHub Stats for shahan360" 
+        width="100%"
+      />
+      <p align="center">GitHub Stats</p>
+    </td>
+    <td valign="top" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&layout=compact" 
+        alt="Top Languages for shahan360" 
+        width="100%"
+      />
+      <p align="center">Top Languages</p>
+    </td>
+  </tr>
+</table>
+
+<!-- Streak stats -->
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shahan360&theme=dark&hide_border=false" 
+    alt="GitHub Streak"
+  />
+</p>
 
 <!--[![Github Trophies](https://github-profile-trophy.vercel.app/?username=shahan360&theme=discord)](https://github.com/shahan360/github-profile-trophy)-->
 
