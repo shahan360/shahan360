@@ -77,7 +77,7 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
   <tr>
     <td valign="top" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=shahan360&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" 
+        src="https://github-readme-stats.vercel.app/api?username=shahan360&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" &cache_seconds=1800
         alt="GitHub Stats for shahan360" 
         width="100%"
       />
@@ -85,7 +85,7 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
     </td>
     <td valign="top" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&layout=compact" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&layout=compact" &cache_seconds=1800
         alt="Top Languages for shahan360" 
         width="100%"
       />
@@ -97,7 +97,7 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 <!-- Streak stats -->
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shahan360&theme=dark&hide_border=false" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shahan360&theme=dark&hide_border=false" &cache_seconds=1800
     alt="GitHub Streak"
   />
 </p>
