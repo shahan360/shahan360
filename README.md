@@ -73,26 +73,24 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=YOUR_GITHUB_TOKEN) -->
 
 <!-- Stats + Top languages side by side -->
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=shahan360&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" &cache_seconds=1800
-        alt="GitHub Stats for shahan360" 
-        width="100%"
-      />
-      <p align="center">GitHub Stats</p>
-    </td>
-    <td valign="top" width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&layout=compact" &cache_seconds=1800
-        alt="Top Languages for shahan360" 
-        width="100%"
-      />
-      <p align="center">Top Languages</p>
-    </td>
-  </tr>
-</table>
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=shahan360&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800"
+    alt="GitHub Stats for shahan360"
+    width="48%"
+  />
+  <img
+    align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&layout=compact&cache_seconds=1800"
+    alt="Top Languages for shahan360"
+    width="48%"
+  />
+</p>
+
+<p align="left"><strong>GitHub Stats</strong></p>
+<p align="right"><strong>Top Languages</strong></p>
+
 
 <!-- Streak stats -->
 <p align="center">
