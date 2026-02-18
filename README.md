@@ -76,20 +76,19 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=shahan360&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahan360&theme=tokyonight"
     alt="GitHub Stats for shahan360"
     width="48%"
   />
   <img
     align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&layout=compact&cache_seconds=1800"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahan360&theme=tokyonight"
     alt="Top Languages for shahan360"
     width="48%"
   />
 </p>
 
-<p align="left"><strong>GitHub Stats</strong></p>
-<p align="right"><strong>Top Languages</strong></p>
+
 
 
 <!-- Streak stats -->
