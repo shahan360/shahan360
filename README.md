@@ -73,31 +73,34 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahan360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=YOUR_GITHUB_TOKEN) -->
 
 <!-- Stats + Top languages side by side -->
-<p>
-  <img
-    align="left"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahan360&theme=tokyonight"
-    alt="GitHub Stats for shahan360"
-    width="48%"
-  />
-  <img
-    align="right"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahan360&theme=tokyonight"
-    alt="Top Languages for shahan360"
-    width="48%"
-  />
-</p>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <p style="width: 48%; text-align: center;">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahan360&theme=tokyonight"
+      alt="GitHub Stats for shahan360"
+      width="100%"
+    />
+    <strong>GitHub Stats</strong>
+  </p>
 
-<p align="left"><strong>GitHub Stats</strong></p>
-<p align="right"><strong>Top Languages</strong></p>
+  <p style="width: 48%; text-align: center;">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahan360&theme=tokyonight"
+      alt="Top Languages for shahan360"
+      width="100%"
+    />
+    <strong>Top Languages</strong>
+  </p>
+</div>
 
 <!-- Streak stats -->
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shahan360&theme=dark&hide_border=false" &cache_seconds=1800
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shahan360&theme=dark&hide_border=false&cache_seconds=1800"
     alt="GitHub Streak"
   />
 </p>
+
 
 <!--[![Github Trophies](https://github-profile-trophy.vercel.app/?username=shahan360&theme=discord)](https://github.com/shahan360/github-profile-trophy)-->
 
