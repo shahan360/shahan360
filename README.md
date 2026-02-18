@@ -88,8 +88,8 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
   />
 </p>
 
-
-
+<p align="left"><strong>GitHub Stats</strong></p>
+<p align="right"><strong>Top Languages</strong></p>
 
 <!-- Streak stats -->
 <p align="center">
