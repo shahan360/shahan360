@@ -1,4 +1,4 @@
-<h1 align="center">Hello ✨ All🤖😀...I'm Shashank!! </h1>
+<h1 align="center">Hello ✨ All🤖😀...I'm Shashank!!! </h1>
 <h3 align="center">A passionate Data Engineering Professional & Computer Engineering graduate from University of Houston</h3>
 My natural inclination as a developer fuels my enthusiasm for creating, and Python, Java & SQL are programming languages that particularly spark my interest. Problem-solving motivates me, and as a Data Engineering Professional, I am particularly fascinated by Artificial Intelligence & Machine Learning. I strongly believe in the idea of having a growth mindset and am dedicated to continuously learning throughout my life.
 
@@ -96,7 +96,7 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 <!-- Streak stats -->
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shahan360&theme=dark&hide_border=false&cache_seconds=1800"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=shahan360&theme=dark&hide_border=false"
     alt="GitHub Streak"
   />
 </p>
