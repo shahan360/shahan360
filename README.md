@@ -95,8 +95,8 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 
 <!-- Streak stats -->
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=shahan360&theme=dark&hide_border=false"
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app?user=shahan360&theme=dark&hide_border=false"
     alt="GitHub Streak"
   />
 </p>
