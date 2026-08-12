@@ -101,6 +101,14 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
   />
 </p>
 
+<!-- Streak stats -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=shahan360&theme=dark&hide_border=false"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 <!--[![Github Trophies](https://github-profile-trophy.vercel.app/?username=shahan360&theme=discord)](https://github.com/shahan360/github-profile-trophy)-->
 
