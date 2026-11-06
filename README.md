@@ -6,7 +6,7 @@ My natural inclination as a developer fuels my enthusiasm for creating, and Pyth
 - 👀 I’m interested in Software Development, Data Engineering Analytics, Artificial Intelligence & Machine Learning
 - 🌱 I’m currently learning Software Development in Python, Java, etc. 
 - 💞️ I’m looking to collaborate on open-source projects related to Data Engineering, Business Intelligence & Data Analytics, Python & Java Software Development, Flask, Machine Learning and Computer Vision
-- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/shahan720/
+- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/shahan360/
 - 🏆 Visit my Tableau Public Data Analytics Projects Portfolio: https://public.tableau.com/app/profile/shashank.bhushan
 - 🛠️ Visit my Online Projects Portfolio: https://sbsb4961.wixsite.com/sbhushan
 
